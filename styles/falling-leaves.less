@@ -1,0 +1,19 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+@leaves: "atom://falling-leaves/images/leaves.png";
+
+/*!
+* 3D Falling Leaves
+*/
+.october-leaf {
+  position: absolute;
+  background-color: transparent;
+  background-image: url(@leaves);
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  transform: translateZ(0);
+  z-index: 99999;
+}

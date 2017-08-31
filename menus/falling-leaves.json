@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Falling Leaves",
+        "command": "falling-leaves:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Falling Leaves",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "falling-leaves:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
