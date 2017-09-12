@@ -20,14 +20,15 @@ You can configure the leaves and flakes in falling-leaves -> settings.
 
 You can customize the following:
  * Auto Toggle - Toggle the Falling Leaves automatically on start up.
- * Leaves
+
+**Leaves Configuration**
   * Number of Leaves
   * Speed
   * Size
 
 ![Configuration Screen](https://raw.githubusercontent.com/iamsenthilprabu/falling-leaves/master/images/screenshots/falling-leaves-configuration.gif)  
 
- * Flakes
+**Flakes Configuration**
   * Include Flakes - You can optionally include or exclude the flakes.
   * Flakes Count
   * Minimum Size of the flakes

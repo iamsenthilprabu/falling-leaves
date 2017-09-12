@@ -26,7 +26,7 @@
     },
     "leaves": {
       "type": "object",
-      "title": "Leaves",
+      "title": "Leaves Configuration",
       "description": "Settings for Leaves.",
       "order": 2,
       "properties": {
@@ -58,7 +58,7 @@
     },
     "flakes": {
       "type": "object",
-      "title": "Flakes",
+      "title": "Flakes Configuration",
       "description": "Advanced settings for Flakes.",
       "order": 3,
       "properties": {
