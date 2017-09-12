@@ -11,7 +11,7 @@
     "colorful"
   ],
   "homepage": "https://atom.io/packages/falling-leaves",
-  "repository": "https://github.com/atom/falling-leaves",
+  "repository": "https://github.com/iamsenthilprabu/falling-leaves",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
