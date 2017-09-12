@@ -2,9 +2,15 @@
   "name": "falling-leaves",
   "main": "./lib/falling-leaves",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Falling Leaves in your editor. Happy Fall!",
   "keywords": [
+    "fall",
+    "leaves",
+    "snow",
+    "october",
+    "colorful"
   ],
+  "homepage": "https://atom.io/packages/falling-leaves",
   "repository": "https://github.com/atom/falling-leaves",
   "license": "MIT",
   "engines": {
