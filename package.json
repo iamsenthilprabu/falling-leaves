@@ -1,7 +1,7 @@
 {
   "name": "falling-leaves",
   "main": "./lib/falling-leaves",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Falling Leaves in your editor. Happy Fall!",
   "keywords": [
     "fall",
