@@ -46,7 +46,8 @@ You can toggle the Falling Leaves by any of the following.
 
 ### Contribute
 
-Pull requests are welcome.  
+Pull requests are welcome.
+Create issues if you have any.  
 If you like to add support for a language you work in, feel free to contribute and open a pull request.  
 In lieu of a formal style guide, take care to maintain the existing coding style.
 
