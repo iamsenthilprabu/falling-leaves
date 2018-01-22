@@ -58,6 +58,12 @@ Thank you for the following repositories and packages.
 * https://github.com/daftspunk/3d-falling-leaves
 * https://atom.io/packages/snowfall
 
+###  Portfolio
+
+Visit my other packages and browser add-ons.
+
+* http://www.senthilprabu.in/#/portfolio
+
 ### License
 
-Copyright (c) 2017 Senthilprabu Ponnusamy
+Copyright (c) 2018 Senthilprabu Ponnusamy
